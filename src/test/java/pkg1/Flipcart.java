@@ -49,8 +49,8 @@ public class Flipcart {
 	@Test	
 	public void Flipcartselection() throws InterruptedException {
 		Thread.sleep(3000);
-	driver.findElementByXPath("//android.widget.RelativeLayout[4]//android.widget.ImageView[1]").click();
-	driver.findElementById("com.flipkart.android:id/select_btn").click();
+	//driver.findElementByXPath("//android.widget.RelativeLayout[4]//android.widget.ImageView[1]").click();
+	//driver.findElementById("com.flipkart.android:id/select_btn").click();
 
 	driver.findElementById("com.flipkart.android:id/custom_back_icon").click();
 	Thread.sleep(5000);
@@ -65,8 +65,7 @@ public class Flipcart {
 	
 	
 	
-	
-	
+
 	
 	
 

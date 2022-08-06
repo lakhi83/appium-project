@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="pkg1.date1"/>
+      <class name="pkg1.Flipcart"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

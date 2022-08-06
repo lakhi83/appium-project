@@ -3,12 +3,12 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="pkg1.date1">
+      <class name="pkg1.Flipcart">
         <methods>
-          <include name="dateselection"/>
           <include name="setUp"/>
+          <include name="Flipcartselection"/>
         </methods>
-      </class> <!-- pkg1.date1 -->
+      </class> <!-- pkg1.Flipcart -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

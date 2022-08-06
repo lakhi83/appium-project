@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-06T18:35:35 NZST" name="Default suite" finished-at="2022-08-06T18:36:24 NZST" duration-ms="49289">
+  <suite started-at="2022-08-07T07:00:37 NZST" name="Default suite" finished-at="2022-08-07T07:01:23 NZST" duration-ms="46184">
     <groups>
     </groups>
-    <test started-at="2022-08-06T18:35:35 NZST" name="Default test" finished-at="2022-08-06T18:36:24 NZST" duration-ms="49289">
+    <test started-at="2022-08-07T07:00:37 NZST" name="Default test" finished-at="2022-08-07T07:01:23 NZST" duration-ms="46184">
       <class name="pkg1.Flipcart">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:pkg1.Flipcart@49912c99]" started-at="2022-08-06T18:35:35 NZST" name="setUp" finished-at="2022-08-06T18:35:58 NZST" duration-ms="22613" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pkg1.Flipcart@49912c99]" started-at="2022-08-07T07:00:37 NZST" name="setUp" finished-at="2022-08-07T07:00:59 NZST" duration-ms="21209" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Flipcartselection()[pri:0, instance:pkg1.Flipcart@49912c99]" started-at="2022-08-06T18:35:58 NZST" name="Flipcartselection" finished-at="2022-08-06T18:36:24 NZST" duration-ms="26593" status="PASS">
+        <test-method signature="Flipcartselection()[pri:0, instance:pkg1.Flipcart@49912c99]" started-at="2022-08-07T07:00:59 NZST" name="Flipcartselection" finished-at="2022-08-07T07:01:23 NZST" duration-ms="24908" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Flipcartselection -->
